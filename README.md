@@ -28,12 +28,10 @@ and Repository class has datasource and Model has a class which has all the prop
 * We can add a Todo
 * We can update status of todo whether done or not.
 * we can get Todo which is undone.
-* We can add Too which is done
-* We can Todo by id
+* We can get Too which is done
+* We can get Todo by id
 * We can get all Todos
 * We can delete Todo.
-* We can get a room by id , roomtype , pricerange and many more 
-* We can delete a room .
 
   
   
