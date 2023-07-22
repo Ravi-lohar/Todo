@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1> TOdo Application </h1>
+  <h1> Todo Application </h1>
  </div>
 
 
